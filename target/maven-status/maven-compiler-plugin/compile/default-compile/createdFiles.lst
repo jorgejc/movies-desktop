@@ -1,0 +1,9 @@
+com\iudigital\movies\desktop\controller\MovieController.class
+com\iudigital\movies\desktop\domain\Genre.class
+com\iudigital\movies\desktop\view\Main$1.class
+com\iudigital\movies\desktop\domain\Movie.class
+com\iudigital\movies\desktop\dao\GenreMovie.class
+com\iudigital\movies\desktop\util\ConnectionUtil.class
+com\iudigital\movies\desktop\dao\MovieDao.class
+com\iudigital\movies\desktop\view\Main.class
+com\iudigital\movies\desktop\view\Main2.class
